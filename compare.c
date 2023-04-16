@@ -9,10 +9,10 @@ int main(void)
 
     if (x > y)
     {
-        printf("spice ice");
+        printf("spice ice\n");
     }
     else
     {
-        printf("niggas in paris!!");
+        printf("niggas in paris!!\n");
     }
 }
