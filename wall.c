@@ -3,9 +3,10 @@
 
 int main(void)
 {
-    for (int i = 0; i < 3; i++)
+    int A =3;
+    for (int i = 0; i < A; i++)
     {
-        for (int r = 0; r < 3; r++)
+        for (int r = 0; r < A; r++)
         printf("#");
         printf("\n");
     }
