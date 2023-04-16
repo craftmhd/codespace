@@ -3,7 +3,7 @@
 
 int main(void)
 {
-COint A = 5;
+    int A = get_int("FUCK U? \n");
     for (int i = 0; i < A; i++)
     {
         for (int r = 0; r < A; r++)
