@@ -4,11 +4,15 @@
 int main(void)
 
 {
-    int x = get_int("slaves amount? ")
-    int y = get_int("slaves asschecks? ")
+    int x = get_int("slaves amount? ");
+    int y = get_int("slaves asschecks? ");
 
     if (x > y)
     {
-        
+        printf("spice ice");
+    }
+    else
+    {
+        printf("niggas in paris!!");
     }
 }
