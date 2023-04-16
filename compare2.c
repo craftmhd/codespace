@@ -11,8 +11,12 @@ int main(void)
     {
         printf("spice ice\n");
     }
-    else
+    else if (x < y)
     {
         printf("niggas in paris!!\n");
+    }
+    else
+    {
+        printf("nigges now days\n")
     }
 }
