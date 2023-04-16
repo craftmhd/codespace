@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    int A =3;
+COint A = 5;
     for (int i = 0; i < A; i++)
     {
         for (int r = 0; r < A; r++)
