@@ -3,6 +3,7 @@
 
 int main(void)
 {
+    
     int A = get_int("FUCK U? \n");
     for (int i = 0; i < A; i++)
     {
