@@ -5,5 +5,7 @@ int main()
 
 {
     do
-    while (int)
+
+
+    while (int n; 1 || 8)
 }
