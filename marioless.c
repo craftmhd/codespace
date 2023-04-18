@@ -2,10 +2,9 @@
 #include <stdio.h>
 
 int main()
-
 {
-    do
-
-
-    while (int n; 1 || 8)
+    for(int n; n > 3; n++)
+    {
+        printf("say!\n");
+    }
 }
