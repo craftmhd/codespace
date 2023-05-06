@@ -3,7 +3,7 @@
 
 int main()
 {
-    char c1 = '卐';
+    string c1 = "卐";
 
-    printf("%i \n", c);
+    printf("%s \n", c1);
 }
